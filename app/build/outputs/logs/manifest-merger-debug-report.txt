@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\407c993105688b19121618a051754b77\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\335293d41cfa397d8bab6fc9224d7482\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8be74d140962af00adc8611e06d5b8e7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\075c7f7b9f2e2c1773d7ca39fe95c726\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\16547b87634295fe241336e5533d82d0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\698e46f43deb7a696f734c38946afbbb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\1e93486d9464a8a3cbd7d51b483584c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\30a9acb864ecb045880562320388d3ed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6fbb27430092e0ae351368085bd121ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4a626b82c61fb481baafe9bdb4f36fde\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\799e3230a6a3ee9dd7f21806bde741ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\9368dbc8d1219e4740bcaabf2db87a44\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\04d22745f8fb2cfdbbd634c5b7968765\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\abade8e6fbe43e2d8ec6ef6b106bae5c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\528e33f780a2a3e5cf97e4da6e8bfd81\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d2e79184bc14e184d61eff7638259b9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\fa5e1cd500207b689c095fe56754d8c5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ebc5d6975ab513a44a9180ba87328c67\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8f46ae0d967a815adec4b5b9c051263c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\93b56c24688e8386f87a92740181b1dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4c20421a066fd1fadc6ed915a7faa442\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\445ac36048986b201770686aacb609ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\2b6ee3aad4d6e4d1662a97e433ec03a8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d4954f9eecf4372fa404438347c722a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\3335b94d47028b23fdd879931b656c63\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\e684ddfe7e15b2149c0fb2df09679338\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\eceb2698b543daae3f2391600aca8c69\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\16577c473acfe0a94b7d0b8be686774e\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8be74d140962af00adc8611e06d5b8e7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8be74d140962af00adc8611e06d5b8e7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\fa5e1cd500207b689c095fe56754d8c5\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\fa5e1cd500207b689c095fe56754d8c5\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ebc5d6975ab513a44a9180ba87328c67\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ebc5d6975ab513a44a9180ba87328c67\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\fa5e1cd500207b689c095fe56754d8c5\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.azhar.switchlayout.MainActivity
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\407c993105688b19121618a051754b77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\407c993105688b19121618a051754b77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\335293d41cfa397d8bab6fc9224d7482\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\335293d41cfa397d8bab6fc9224d7482\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8be74d140962af00adc8611e06d5b8e7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8be74d140962af00adc8611e06d5b8e7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\075c7f7b9f2e2c1773d7ca39fe95c726\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\075c7f7b9f2e2c1773d7ca39fe95c726\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\16547b87634295fe241336e5533d82d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\16547b87634295fe241336e5533d82d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\698e46f43deb7a696f734c38946afbbb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\698e46f43deb7a696f734c38946afbbb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\1e93486d9464a8a3cbd7d51b483584c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\1e93486d9464a8a3cbd7d51b483584c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\30a9acb864ecb045880562320388d3ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\30a9acb864ecb045880562320388d3ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6fbb27430092e0ae351368085bd121ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6fbb27430092e0ae351368085bd121ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4a626b82c61fb481baafe9bdb4f36fde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4a626b82c61fb481baafe9bdb4f36fde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\799e3230a6a3ee9dd7f21806bde741ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\799e3230a6a3ee9dd7f21806bde741ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\9368dbc8d1219e4740bcaabf2db87a44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\9368dbc8d1219e4740bcaabf2db87a44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\04d22745f8fb2cfdbbd634c5b7968765\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\04d22745f8fb2cfdbbd634c5b7968765\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\abade8e6fbe43e2d8ec6ef6b106bae5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\abade8e6fbe43e2d8ec6ef6b106bae5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\528e33f780a2a3e5cf97e4da6e8bfd81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\528e33f780a2a3e5cf97e4da6e8bfd81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d2e79184bc14e184d61eff7638259b9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d2e79184bc14e184d61eff7638259b9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\fa5e1cd500207b689c095fe56754d8c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\fa5e1cd500207b689c095fe56754d8c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ebc5d6975ab513a44a9180ba87328c67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ebc5d6975ab513a44a9180ba87328c67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8f46ae0d967a815adec4b5b9c051263c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8f46ae0d967a815adec4b5b9c051263c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\93b56c24688e8386f87a92740181b1dd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\93b56c24688e8386f87a92740181b1dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4c20421a066fd1fadc6ed915a7faa442\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4c20421a066fd1fadc6ed915a7faa442\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\445ac36048986b201770686aacb609ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\445ac36048986b201770686aacb609ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\2b6ee3aad4d6e4d1662a97e433ec03a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\2b6ee3aad4d6e4d1662a97e433ec03a8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d4954f9eecf4372fa404438347c722a3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d4954f9eecf4372fa404438347c722a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\3335b94d47028b23fdd879931b656c63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\3335b94d47028b23fdd879931b656c63\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\e684ddfe7e15b2149c0fb2df09679338\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\e684ddfe7e15b2149c0fb2df09679338\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\eceb2698b543daae3f2391600aca8c69\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\eceb2698b543daae3f2391600aca8c69\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\16577c473acfe0a94b7d0b8be686774e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\16577c473acfe0a94b7d0b8be686774e\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\UTSPRKPEMBER\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
